@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of the letter sent from Ferrara the xxii. of Nouember. 1570</title>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00697</idno><idno type="EEBO-CITATION">99850800</idno>
+  <idno type="VID">16027</idno>
+  <idno type="EEBO-PROQUEST">2248554547</idno>
+  <idno type="STC">STC 10830</idno>
+  <idno type="STC">ESTC S115582</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850800e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 566:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of the letter sent from Ferrara the xxii. of Nouember. 1570</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Paules Churchyarde, at the signe of the Lucrece, by Thomas Purfoote,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1571?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Concerning the earthquake at Ferrara (22 November 1570)--STC.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ferrara (Italy) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:16027:1"/>
+            <pb facs="tcp:16027:1"/>
+            <p>¶ <hi>A Coppie of</hi> the letter sent from Fer<g ref="char:EOLhyphen"/>rara the xxij. of Nouember. 1570.</p>
+            <q>
+               <p>¶ Jesus dixit illis. Putatis{que} hi Galaelei pre<g ref="char:EOLunhyphen"/>cunctis Galaeleis peccatore, fuerint quia talia paess<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sunt non dico vobis, imò nisi recipucritis omnes simul perhibitis. &amp;c.</p>
+               <bibl>
+                  <hi>LVCAE. 13.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Iesus aunswered &amp; said vnto thē, suppo<g ref="char:EOLhyphen"/>se ye that these Galilās were greater sin<g ref="char:EOLunhyphen"/>ners then al the other Galileans, becau<g ref="char:EOLhyphen"/>se they suffred suche punishment? I tell you naie: but except ye repent, ye shall all likewise perishe. Or those eightene vpō which the Tower in Siloe fell &amp; slue them: thinke ye that they were sinners aboue all men that dwelt in Hierusalē, I tell you naie, but except ye repent, ye shall all likewise perishe.</p>
+            </q>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:16027:2"/>
+            <head>¶ <hi>A TRVE COPIE OF</hi> A LETTER SENT FROM FERARA the xxij. of Nouember. 1570.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE great and hori<g ref="char:EOLhyphen"/>ble</hi> earthquakes, the excessiue and vnrecouerable losses, withe the great mortalitie and death of peo<g ref="char:EOLhyphen"/>ple, the ruine and ouerthrowe of an infinite number of Monasteries, Pallaces, and other howses, and the destruction of his graces excellencies Lastell, haue altogether amased with feare, impouerished, afflicted, and astoined the har<g ref="char:EOLhyphen"/>tes of the poore people: in such wise, that the death wold be more agreable vnto thē, then the expecta<g ref="char:EOLhyphen"/>tion of the like scourge to come againe. The which made vs all thinke for a certaintye, that thende of the world was at hand. You shall therfore vnder<g ref="char:EOLhyphen"/>stande, that on thursday the xi. day at x. of the clock in the night there happened an earthquake whiche endured the space of an <hi>Aue Marie</hi> (as the Italian phrase is) whereby manye Chymneyes of howses fell down. And within a litle while after another earthquake was heard. In y<seg rend="sup">e</seg> whole vntill ij. a cloc<g ref="char:EOLhyphen"/>ke in the morninge there happened xiiij. earthqua<g ref="char:EOLhyphen"/>kes wherewith many howses were ouerthrowen. The frydaye folowinge which was the xvij. of the
+<pb facs="tcp:16027:2"/>fayde moneth the earth quaked all the whole daye. If it had bene but thrise in one houre. What a noi<g ref="char:EOLhyphen"/>se and dreadfull feare with lammentable waylings might it haue made thinke you: But in dede al tho<g ref="char:EOLhyphen"/>se were none in comparison of that whiche happe<g ref="char:EOLhyphen"/>ned in the night at iii. of the clocke: whereby y<seg rend="sup">e</seg> skie or elem ēt became obscure &amp; darke: There rose a ve<g ref="char:EOLunhyphen"/>hement &amp; great windes at iiij. of the clocke, the cle<g ref="char:EOLhyphen"/>ment was cleare, &amp; the moue rose &amp; appeared with a comete ioyned to it, hauing a tayle two fadomes longe to mens iudgement, &amp; within an houre after which was at v. of the clocke: suche obscuritie and darkenes was in the element that one man coulde not see an other. And sodenlye arose diuers earth<g ref="char:EOLhyphen"/>quakes. Of whiche one continued the space of an houre &amp; then fell the Castle &amp; the Bishops howse, and the Palace <hi>de la Ragion,</hi> xij. Monasteries, S Paule with diuers churches and palaices, &amp; an in<g ref="char:EOLhyphen"/>finite number of houses, O God what a lamenta<g ref="char:EOLhyphen"/>ble thinge was this, what ruinous ouerthrowes &amp; terrible dreades happened. The Duke &amp; the Du<g ref="char:EOLhyphen"/>ches went spedelie to a garden of theirs withoute Ferara. And caused a Pauiliō to be pytched, wher<g ref="char:EOLhyphen"/>in they remayned: three of his graces pages &amp; iiij. of y<seg rend="sup">e</seg> Duchesses were slayne with the houses of the Castell y<seg rend="sup">t</seg> fell vpō them, &amp; many other officers that could not escape away in tyme. I my self at y<seg rend="sup">t</seg> instāt was in my chamber sitting at the table which was
+<pb facs="tcp:16027:3"/>raised vp a fadom in height, &amp; I fell downe &amp; per<g ref="char:EOLhyphen"/>ceyued the toppe of the house fallen and the <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> rent &amp; breake in peeces: wherewith being astoyned I lept out at the window in a maner a pikes lēgth to the ground, &amp; withdrew my selfe into the new<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> market place whiche is greate withoute measure. I lefte my golde and syluer behinde me, thin<g ref="char:EOLhyphen"/>kinge my self happie to haue saued my life. I foūd in the sayde newe market place more then v. thou<g ref="char:EOLhyphen"/>sand persons men and woman whiche had the is children in their armes making suche a lamentable noise that it was heard (as certen countreymen re<g ref="char:EOLhyphen"/>ported) x. Italian miles of. we were all on oure knees prayinge &amp; sayinge many prayers on eache parte y<seg rend="sup">t</seg> it was merueilous to heare. And no doubt but that any stonye harte would haue bene moued to pytie &amp; compassion thereby. And being on oure knees, aboue vi. tymes we fell on the ground mer<g ref="char:EOLhyphen"/>uelouslye shaken &amp; tossed with y<seg rend="sup">e</seg> earthquakes. And continued so vntyll saterdaye at x. of the clocke in the night and two a clocke in the morninge. I lea<g ref="char:EOLhyphen"/>ue the consideration of the pytyfull lamentacion of noble gentlewomen &amp; others, &amp; the clamorous cri<g ref="char:EOLhyphen"/>inge out of the people with execrable cursinge of the Duke, seing their houses abound &amp; flowe with wyne &amp; corne and all thinges appertayning to the state (I saye) of gentill and honorable, and in one houre to be depryued and bereft of all and impo<g ref="char:EOLhyphen"/>uerished
+<pb facs="tcp:16027:3"/>altogether. They are in dede matters worthie to be remēbred and noted of vs. The pry<g ref="char:EOLhyphen"/>son fell down &amp; the prisoners escaped: wherefore y<seg rend="sup">e</seg> gates were shutte, &amp; none could yssue out, manye leaped ouer the walles, and by the meanes saued thēselues. At my comming I shall recoumpt euery thing to you at large: But fyue shetes of paper wil not suffice to write the whole matter. The Duke gaue commaundemente, that euerye man mighte bake breade in their howses, whiche was a token that he began to remember his couetous &amp; gready errour. In dede his eruell tyrannyes were the oc<g ref="char:EOLhyphen"/>casion of all these ruynes. Do not you thinke it a great matter that he had solde all the taxes or tri<g ref="char:EOLhyphen"/>butes vnto a Venetian gentleman of his name <hi>Il Sforza.</hi> And none afore could bake any breade vpō a great payne without his commission: Also if one dyd we are a payre of newe shoes without paying tare or tribute he lost L d. Italian, &amp; should suffer three pulles with the cord afterward, was not this a rauenous suckinge of the cōmon peoples bloude Marke whether God reuealed not these things to come by the Dukes Secretarye named M. <hi>Iohn Baptist Pigna</hi> a very learned man, a great Philo<g ref="char:EOLhyphen"/>sopher, and braue &amp; conninge Astrologier: who the sondaye before whiche was the xij. of this presente moneth framed these woordes vnto the Duke his Maister, My Lord I perceyue, that the people do
+<pb facs="tcp:16027:4"/>greatly murmure against your grace which if you redresse not I doubt (no I am very sure) that this weeke will not be ended before you shall see very<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earthlye and heauenlye tokens as might be earth<g ref="char:EOLhyphen"/>quakes: The Duke aunswered, it was tolde me that there should haue bene earthquakes in Maye past, and yet there was none sene. M. Secretarye without other Replie sayde, God graunte there happen none. And the Secretary the day before the earthquake, went from Ferrara and caried all hys stuffe with him and all that was in hys house, ha<g ref="char:EOLhyphen"/>uing builte a goodly Palaice a little while before, the which was also ouerthrown. The earthquakes are numbred to haue bene a hundred and foure in xl. houres. Yet for all these, they ceased not, but on Twesdaye the xxi. of the moneth in the mornyng, there were iiij. other greate earthequakes, where<g ref="char:EOLhyphen"/>with many houses that stoode not ouerthrowne, thoughe shaken and torne, fell to the ground. And it is sayd, y<seg rend="sup">t</seg> this earthquake shall endure xl. dayes. To morrow I take my iourney towarde you, and then will reporte you thereof at large. This Citie is smothe like a rased or shauen table, a man can not walke by the streates, halfe the houses are fal<g ref="char:EOLhyphen"/>len downe, the rest haue bene shaken likewise. And if the earthquake do continue, you may read what will come thereof. The Duke and Duches make their aboade as yet vnder the pauilion, the reporte
+<pb facs="tcp:16027:4"/>goeth, that they will come and lie at <hi>Mantua.</hi> Loo<g ref="char:EOLhyphen"/>ke for me to morowe, for I am in dread that of ne<g ref="char:EOLhyphen"/>uer so litle a puffe of winde will growe an earth<g ref="char:EOLhyphen"/>quake. The iuste number of the people that be slayne is not knowen. It is thoughte to be aboute. <hi>2000.</hi>
+            </p>
+         </div>
+         <div type="list_of_damages">
+            <head>Castelles Churches, <hi>Mo<g ref="char:EOLhyphen"/>nasteries, chiefe</hi> Pal<g ref="char:EOLhyphen"/>laces all fallen to ruyne.</head>
+            <list>
+               <item>THE bodye of the Castle fallen to ruyne.</item>
+               <item>The whole Palaice de la Ragion withe all the shoppes about it fallen.</item>
+               <item>S. Paule fallen to ruyne.</item>
+               <item>S. Fraunces in a manner all fallen.</item>
+               <item>S. Iohn Baptist the chiefe Churche all fallen.</item>
+               <item>All the bishops lodginge fallen downe.</item>
+               <item>All the walles of the nunrye called Sor de Christo towarde the Cardinall of Est, fallen downe.</item>
+               <item>All the caues and cellers where Malmesey is solde S. Paule and where the hosiers dwel, are fallen downe.</item>
+               <item>The steple of the house of the Religion called cer<g ref="char:EOLhyphen"/>tosa fallen.</item>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:16027:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:16027:5"/>
+               <pb facs="tcp:16027:6"/>
+               <item> A side of Saincte Benedictes, Churche fallen to ruyne.</item>
+               <item>All the side of the Inne of the Bell towarde the garden fallen to Ruyne.</item>
+               <item>A part or peece of the Inne of the Angell fallen to ruyne.</item>
+               <item>The parte of the courte where the halbardiers or gardare.</item>
+               <item>Al the Inne of the Sūne with al the shops about it.</item>
+               <item>All the rowmes or places of the Sincers,</item>
+               <item>The Court of the Castle Tialto.</item>
+               <item>A pece of the Inne of the Moore.</item>
+               <item>A pece of the house of <hi>Di Contrars.</hi>
+               </item>
+               <item>All the shoppes vnder the great and chiefe Chur<g ref="char:EOLhyphen"/>che where the Collone were, are fallen &amp; bro<g ref="char:EOLhyphen"/>ken in peeces.</item>
+               <item>All the streates haue bene destroyed withoute number and an infinite number of other houses and Pallaices whiche are not spoken of for breuities sake. You shall heare further withe the firste.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Jmprinted at London in</hi> Paules Churchyarde, at the signe of the Lucrece, by <hi>Thomas Purfoote.</hi>
+            </p>
+            <pb facs="tcp:16027:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
